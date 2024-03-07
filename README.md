@@ -1,3 +1,5 @@
+---
+
 ### 🤗 About Me:
 
 An A-level student at UTC Portsmouth. Taking A-levels in Mathematics, Computer Science and Engineering 📚
@@ -7,5 +9,8 @@ An A-level student at UTC Portsmouth. Taking A-levels in Mathematics, Computer S
    - 🧑🏻‍💻 Currently Learning C++  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width=20 height=20/>
    - 🤖 Interested in Machine Learning and Generative Algorithms 
 
+---
+
+### 📊 Github Streak Stats: 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=will-b106&theme=vue-dark)](https://git.io/streak-stats)
