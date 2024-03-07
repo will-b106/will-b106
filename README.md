@@ -8,4 +8,4 @@ An A-level student at UTC Portsmouth. Taking A-levels in Mathematics, Computer S
    - 🤖 Interested in Machine Learning and Generative Algorithms 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=will-b106)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=will-b106&theme=vue-dark)](https://git.io/streak-stats)
