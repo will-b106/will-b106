@@ -11,15 +11,6 @@ An A-level student at UTC Portsmouth. Taking A-levels in Mathematics, Computer S
 
 ---
 
-- uses: Platane/snk@v3
-  with:
-    github_user_name: ${{ github.will-b106 }}
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
----
 ### 📊 Github Streak Stats: 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=will-b106&theme=dark)](https://git.io/streak-stats)
