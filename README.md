@@ -13,4 +13,4 @@ An A-level student at UTC Portsmouth. Taking A-levels in Mathematics, Computer S
 
 ### 📊 Github Streak Stats: 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=will-b106&theme=dark)](https://git.io/streak-stats)
+[![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=will-b106)](https://github.com/anuraghazra/github-readme-stats)
