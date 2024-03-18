@@ -13,4 +13,4 @@ An A-level student at UTC Portsmouth. Taking A-levels in Mathematics, Computer S
 
 ### 📊 Github Streak Stats: 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=willb-106&theme=ayu_mirage)
+![Will's Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=willb-106&theme=ayu_mirage)
